@@ -1,2 +1,8 @@
-# Password_Generator
-The Password Generator project is a hands-on exercise in JavaScript and React, hosted on GitHub. This project aims to enhance coding skills by implementing a secure and user-friendly tool for generating strong passwords, showcasing proficiency in both front-end development and programming logic.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
